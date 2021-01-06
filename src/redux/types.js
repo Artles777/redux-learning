@@ -1,0 +1,13 @@
+const INCREMENT = 'INCREMENT'
+const DECREMENT = 'DECREMENT'
+const TOGLE_THEME = 'TOGLE_THEME'
+const ENABLE_BTN = 'ENABLE_BTN'
+const DISABLE_BTN = 'DISABLE_BTN'
+
+export const types = {
+    INCREMENT,
+    DECREMENT,
+    TOGLE_THEME,
+    ENABLE_BTN,
+    DISABLE_BTN
+}
